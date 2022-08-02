@@ -1,0 +1,85 @@
+.marka{
+    font-size: 400%; 
+    width: 100%;
+     height: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(201, 98, 29);
+    float: left;
+    padding-bottom: 5%;
+}
+
+.clearfix{
+    clear: left;
+}
+
+.butonlar{
+    background-color: aquamarine;
+}
+
+.conteiner{
+    background-color: rgba(255, 226, 173, 0.432);
+    width: 100%;
+    height: 100%;
+    
+}
+.deko{ 
+    background-color:rgba(235, 177, 111, 0.527);
+    width: 200px;
+    height: 200px;
+    float: left;
+    border-bottom-right-radius: 15%;
+    margin-top: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.çiçekli{ 
+    background-color: rgba(235, 177, 111, 0.527);
+    width: 200px;
+    height: 200px;
+    float: left;
+    border-bottom-right-radius: 15%;
+    margin-top: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.hediyelik{ 
+    background-color: rgba(235, 177, 111, 0.527) ;
+    width: 200px;
+    height: 200px;
+    float: left;
+    border-bottom-right-radius: 15%;
+    margin-top: 10%;
+    margin-left: 5%;    
+    margin-right: 5%;
+ 
+}
+
+.box{
+    width: 80px;
+    height: 20px;
+    margin-left: 10px;
+    float: right;
+    border-bottom-right-radius: 20%;
+    padding:8px
+}
+.padding10px{
+    padding: 10px;
+}
+.padding5px{
+    padding:5px
+}
+.bg-light{ background-color: rgba(240, 154, 56, 0.575);
+
+}
+
+.bg-dark{  background-color: rgba(173, 88, 18, 0.753) ;
+
+}
+
+.bg-flu{ background-color: rgba(233, 190, 155, 0.753);
+
+}
+.ürünbaşlık{
+    font-family: fantasy;
+    color: rgb(112, 53, 14);
+}
